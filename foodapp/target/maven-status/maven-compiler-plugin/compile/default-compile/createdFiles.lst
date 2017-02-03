@@ -1,0 +1,17 @@
+com\isilay\foodapp\dao\jpa_impl\ActionsDAOImpl.class
+com\isilay\foodapp\dao\GenericDAO.class
+com\isilay\foodapp\dao\ActionsDAO.class
+com\isilay\foodapp\web\dto\ActionsDTO.class
+com\isilay\foodapp\dao\jpa_impl\GenericDAOImpl.class
+com\isilay\foodapp\service\ActionsService.class
+com\isilay\foodapp\service\jpa_impl\PersonsServiceImpl.class
+com\isilay\foodapp\web\dto\PersonsDTO.class
+com\isilay\foodapp\model\Persons.class
+com\isilay\foodapp\model\Actions.class
+com\isilay\foodapp\web\controller\IndexController.class
+com\isilay\foodapp\service\jpa_impl\ActionsServiceImpl.class
+com\isilay\foodapp\mapper\PersonsMapper.class
+com\isilay\foodapp\mapper\ActionsMapper.class
+com\isilay\foodapp\service\PersonsService.class
+com\isilay\foodapp\dao\jpa_impl\PersonsDAOImpl.class
+com\isilay\foodapp\dao\PersonsDAO.class
